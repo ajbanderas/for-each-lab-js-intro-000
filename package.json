@@ -28,7 +28,11 @@
   "devDependencies": {
     "expect": "^1.20.2",
     "jsdom": "^9.1.0",
+<<<<<<< HEAD
     "mocha": "^2.5.3",
+=======
+    "mocha": "^2.4.5",
+>>>>>>> 7a8120d968bd455c1d3609ac251f36016a2658ea
     "mocha-jsdom": "~1.1.0",
     "mocha-multi": "^0.9.0"
   }
